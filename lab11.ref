@@ -1,0 +1,34 @@
+%% OPmac - REF file (\inputref)
+\Xrefversion{2}
+\Xpage{1}
+\Xtoc{1}{\rm }{1}{Description}{1}
+\Xpage{2}
+\Xtoc{1}{\rm }{2}{The Problem}{2}
+\Xpage{3}
+\Xtoc{1}{\rm }{3}{Photo of Cars}{3}
+\Xpage{4}
+\Xtoc{1}{\rm }{4}{The Result}{4}
+\Xpage{5}
+\Xtoc{1}{\rm }{5}{Source Code}{5}
+\Xtoc{2}{\rm }{5.1}{Lab11b.cxx Source Code}{5}
+\Xpage{6}
+\Xpage{7}
+\Xtoc{2}{\rm }{5.2}{Lab11b.h Source Code}{7}
+\Xpage{8}
+\Xtoc{2}{\rm }{5.3}{Street.cpp Source Code}{8}
+\Xpage{9}
+\Xpage{10}
+\Xtoc{2}{\rm }{5.4}{Street.h Source Code}{10}
+\Xtoc{1}{\rm }{6}{Source Code of all derived class H file}{10}
+\Xtoc{2}{\rm }{6.1}{sedan.h file}{10}
+\Xpage{11}
+\Xtoc{2}{\rm }{6.2}{motor.h file}{11}
+\Xpage{12}
+\Xtoc{2}{\rm }{6.3}{sports.h file}{12}
+\Xpage{13}
+\Xpage{14}
+\Xtoc{2}{\rm }{6.4}{truck.h file}{14}
+\Xpage{15}
+\Xtoc{1}{\rm }{7}{Tex File}{15}
+\Xpage{16}
+\Xpage{17}

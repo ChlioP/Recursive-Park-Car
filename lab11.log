@@ -1,0 +1,1334 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Alpine Linux) (preloaded format=pdftex 2020.11.12)  17 NOV 2021 18:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**lab11
+(./lab11.tex (/usr/share/texmf-dist/tex/csplain/opmac/opmac.tex
+This is OPmac (Olsak's Plain macros), version <Jul. 2019>
+\tmpnum=\count27
+\tmpdim=\dimen16
+\iindent=\dimen17
+\ttindent=\dimen18
+\colsep=\dimen19
+\mnoteindent=\dimen20
+\mnotesize=\dimen21
+\titskip=\skip18
+\ptunit=\dimen22
+\fontdim=\dimen23
+(/usr/share/texmf-dist/tex/csplain/fonts/ams-math.tex
+FONT: AMS math fonts - \mathchardef's prepared, 12 math families preloaded.
+\ptmunit=\dimen24
+)
+OPmac: etex.src macros detected
+\reffile=\write0
+\testin=\read1
+\chapnum=\count28
+\secnum=\count29
+\seccnum=\count30
+\nonumnum=\count31
+\remskipamount=\skip19
+\tnum=\count32
+\fnum=\count33
+\dnum=\count34
+\itemnum=\count35
+\mullines=\count36
+\oulnum=\count37
+\ttline=\count38
+\viline=\count39
+\vifile=\read2
+\tabdata=\toks13
+\colnum=\count40
+\drulewidth=\dimen25
+\picwidth=\dimen26
+\picheight=\dimen27
+\fnotenum=\count41
+\fnotenumlocal=\count42
+\mnotenum=\count43
+\mnoteskip=\dimen28
+\auxfile=\write1
+\bibnum=\count44
+\bibmark=\toks14
+\lastcitenum=\count45
+\lastpage=\count46
+\pgwidth=\dimen29
+\pgheight=\dimen30
+\shiftoffset=\dimen31
+ (./lab11.ref)
+\openout0 = `lab11.ref'.
+
+) (../hisyntax.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 5.88351
+.\glue(\topskip) 10.0
+.\rule(0.0+0.0)x*
+.\penalty 10000
+.\glue 40.00006
+.\glue(\parskip) 0.0 plus 1.0
+.\hbox(14.40353+0.0)x469.75499, glue set 204.04791fill
+..\glue(\leftskip) 0.0 plus 1.0fill
+..\tenbf L
+..\tenbf a
+..\tenbf b
+..\tenbf 1
+..\tenbf 1
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0 plus 1.0fill
+.\penalty 10000
+.\glue 12.0 plus 4.0 minus 4.0
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\baselineskip) 5.16669
+.\hbox(6.83331+1.94444)x469.75499, glue set 384.81042fill
+..\glue(\leftskip) 20.0
+..\hbox(6.44444+0.0)x0.0, glue set - 10.00002fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\tenrm 1
+...\kern 5.0
+..\tenrm D
+..\tenrm e
+..\tenrm s
+..\tenrm c
+..\tenrm r
+..\tenrm i
+..\tenrm p
+..\tenrm t
+..\tenrm i
+..\tenrm o
+..\tenrm n
+..\penalty 10000
+..\leaders 10.00002 plus 1.0fill
+...\hbox(1.05554+0.0)x8.00003, glue set 2.61113fil
+....\glue 0.0 plus 1.0fil minus 1.0fil
+....\tenrm .
+....\glue 0.0 plus 1.0fil minus 1.0fil
+..\tenrm 2
+..\penalty 10000
+..\glue -40.0
+..\hbox(0.0+0.0)x0.0
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 40.0
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\baselineskip) 3.11111
+.\hbox(6.94444+0.0)x469.75499, glue set 377.36597fill
+..\glue(\leftskip) 20.0
+..\hbox(6.44444+0.0)x0.0, glue set - 10.00002fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\tenrm 2
+...\kern 5.0
+..\tenrm T
+..\tenrm h
+..\tenrm e
+..\glue 3.33333 plus 1.66666 minus 1.11111
+..\tenrm P
+..\tenrm r
+..\tenrm o
+..\tenrm b
+..\tenrm l
+..\tenrm e
+..\tenrm m
+..\penalty 10000
+..\leaders 10.00002 plus 1.0fill
+...\hbox(1.05554+0.0)x8.00003, glue set 2.61113fil
+....\glue 0.0 plus 1.0fil minus 1.0fil
+....\tenrm .
+....\glue 0.0 plus 1.0fil minus 1.0fil
+..\tenrm 3
+..\penalty 10000
+..\glue -40.0
+..\hbox(0.0+0.0)x0.0
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 40.0
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\baselineskip) 5.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 373.69928fill
+..\glue(\leftskip) 20.0
+..\hbox(6.44444+0.0)x0.0, glue set - 10.00002fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\tenrm 3
+...\kern 5.0
+..\tenrm P
+..\tenrm h
+..\tenrm o
+..\tenrm t
+..\tenrm o
+..\glue 3.33333 plus 1.66666 minus 1.11111
+..\tenrm o
+..\tenrm f
+..\glue 3.33333 plus 1.66666 minus 1.11111
+..\tenrm C
+..\tenrm a
+..\tenrm r
+..\tenrm s
+..\penalty 10000
+..\leaders 10.00002 plus 1.0fill
+...\hbox(1.05554+0.0)x8.00003, glue set 2.61113fil
+....\glue 0.0 plus 1.0fil minus 1.0fil
+....\tenrm .
+....\glue 0.0 plus 1.0fil minus 1.0fil
+..\tenrm 4
+..\penalty 10000
+..\glue -40.0
+..\hbox(0.0+0.0)x0.0
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 40.0
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\baselineskip) 5.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 386.22713fill
+..\glue(\leftskip) 20.0
+..\hbox(6.44444+0.0)x0.0, glue set - 10.00002fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\tenrm 4
+...\kern 5.0
+..\tenrm T
+..\tenrm h
+..\tenrm e
+..\glue 3.33333 plus 1.66666 minus 1.11111
+..\tenrm R
+..\tenrm e
+..\tenrm s
+..\tenrm u
+..\tenrm l
+..\tenrm t
+..\penalty 10000
+..\leaders 10.00002 plus 1.0fill
+...\hbox(1.05554+0.0)x8.00003, glue set 2.61113fil
+....\glue 0.0 plus 1.0fil minus 1.0fil
+....\tenrm .
+....\glue 0.0 plus 1.0fil minus 1.0fil
+..\tenrm 5
+..\penalty 10000
+..\glue -40.0
+..\hbox(0.0+0.0)x0.0
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 40.0
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\baselineskip) 5.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 380.00487fill
+..\glue(\leftskip) 20.0
+..\hbox(6.44444+0.0)x0.0, glue set - 10.00002fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\tenrm 5
+...\kern 5.0
+..\tenrm S
+..\tenrm o
+..\tenrm u
+..\tenrm r
+..\tenrm c
+..\tenrm e
+..\glue 3.33333 plus 1.66666 minus 1.11111
+..\tenrm C
+..\tenrm o
+..\kern0.27779
+..\tenrm d
+..\tenrm e
+..\penalty 10000
+..\leaders 10.00002 plus 1.0fill
+...\hbox(1.05554+0.0)x8.00003, glue set 2.61113fil
+....\glue 0.0 plus 1.0fil minus 1.0fil
+....\tenrm .
+....\glue 0.0 plus 1.0fil minus 1.0fil
+..\tenrm 5
+..\penalty 10000
+..\glue -40.0
+..\hbox(0.0+0.0)x0.0
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 40.0
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\baselineskip) 5.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 286.5325fill
+..\glue(\leftskip) 60.0
+..\hbox(6.44444+0.0)x0.0, glue set - 17.77782fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\tenrm 5
+...\tenrm .
+...\tenrm 1
+...\kern 5.0
+..\tenrm L
+..\tenrm a
+..\tenrm b
+..\tenrm 1
+..\tenrm 1
+..\tenrm b
+..\tenrm .
+..\tenrm c
+..\tenrm x
+..\tenrm x
+..\glue 3.33333 plus 1.66666 minus 1.11111
+..\tenrm S
+..\tenrm o
+..\tenrm u
+..\tenrm r
+..\tenrm c
+..\tenrm e
+..\glue 3.33333 plus 1.66666 minus 1.11111
+..\tenrm C
+..\tenrm o
+..\kern0.27779
+..\tenrm d
+..\tenrm e
+..\penalty 10000
+..\leaders 10.00002 plus 1.0fill
+...\hbox(1.05554+0.0)x8.00003, glue set 2.61113fil
+....\glue 0.0 plus 1.0fil minus 1.0fil
+....\tenrm .
+....\glue 0.0 plus 1.0fil minus 1.0fil
+..\tenrm 6
+..\penalty 10000
+..\glue -40.0
+..etc.
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\baselineskip) 5.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 295.97697fill
+..\glue(\leftskip) 60.0
+..\hbox(6.44444+0.0)x0.0, glue set - 17.77782fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\tenrm 5
+...\tenrm .
+...\tenrm 2
+...\kern 5.0
+..\tenrm L
+..\tenrm a
+..\tenrm b
+..\tenrm 1
+..\tenrm 1
+..\tenrm b
+..\tenrm .
+..\tenrm h
+..\glue 3.33333 plus 1.66666 minus 1.11111
+..\tenrm S
+..\tenrm o
+..\tenrm u
+..\tenrm r
+..\tenrm c
+..\tenrm e
+..\glue 3.33333 plus 1.66666 minus 1.11111
+..\tenrm C
+..\tenrm o
+..\kern0.27779
+..\tenrm d
+..\tenrm e
+..\penalty 10000
+..\leaders 10.00002 plus 1.0fill
+...\hbox(1.05554+0.0)x8.00003, glue set 2.61113fil
+....\glue 0.0 plus 1.0fil minus 1.0fil
+....\tenrm .
+....\glue 0.0 plus 1.0fil minus 1.0fil
+..\tenrm 8
+..\penalty 10000
+..\glue -40.0
+..\hbox(0.0+0.0)x0.0
+..\penalty 10000
+..etc.
+.\glue(\parskip) 0.0 plus 1.0
+.etc.
+
+ [1{/usr/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x505.89, glue set 18.14748
+.\glue(\topskip) 0.0
+.\hbox(10.00053+0.0)x469.75499, glue set 352.2153fil
+..\write0{\string \Xtoc {1}{\noexpand \rm }{2}{The Problem}{\the \pageno }}
+..\tenbf 2
+..\glue 16.20088
+..\tenbf T
+..\tenbf h
+..\tenbf e
+..\glue 5.40028 plus 2.70013 minus 1.8001
+..\tenbf P
+..\tenbf r
+..\tenbf o
+..\tenbf b
+..\tenbf l
+..\tenbf e
+..\tenbf m
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\mark{{2} {The Problem}}
+.\penalty 10000
+.\glue 6.0 plus 2.0 minus 2.0
+.\penalty 11333
+.\glue(\lineskip) 1.0
+.\hbox(589.90707+0.0)x505.89
+..\pdfrefximage(589.90707+0.0)x505.89
+
+ [2 <./lab11.png>] [3 <./car0.png> <./car1.png> <./car2.png> <./car3.png> <./ca
+r4.png> <./car5.png> <./car6.png> <./car7.png>] [4 <./car8.png> <./car9.png>] [
+5 <./r.png>]
+Overfull \hbox (38.49075pt too wide) in paragraph at lines 83--83
+[][][]   \tentt cars[][[][]([][]*[]carSelections[])[][][[]i[]][][]][][]-[][]>[]
+drive[]([]street[]-[][]>[]getParkingLocationX[]([]i[])[][]-[][]10[][],[] street
+[]-[][]>[]getStreet_Y[]([][])[][]+[]|
+
+\hbox(6.94444+2.22223)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\pdfcolorstack 0 push {0 g 0 G}
+..\thefont 3
+..\thefont 9
+..\kern 7.17494
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\tentt c
+.\tentt a
+.\tentt r
+.\tentt s
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt [
+.\pdfcolorstack 0 pop
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt (
+.\pdfcolorstack 0 pop
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt *
+.\pdfcolorstack 0 pop
+.\tentt c
+.\tentt a
+.\tentt r
+.\tentt S
+.\tentt e
+.\tentt l
+.\tentt e
+.\tentt c
+.\tentt t
+.\tentt i
+.\tentt o
+.etc.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+0.8333)x469.75499, glue set 444.50504fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 3
+...\thefont 3
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt {
+..\pdfcolorstack 0 pop
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 5.05559
+.\hbox(6.11111+1.38887)x469.75499, glue set 344.7559fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 3
+...\thefont 4
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\tentt s
+..\tentt t
+..\tentt a
+..\tentt t
+..\tentt i
+..\tentt c
+..\glue 5.24995
+..\pdfcolorstack 0 push {0 1 1 0 k 0 1 1 0 K}
+..\tentt i
+..\tentt n
+..\tentt t
+..\pdfcolorstack 0 pop
+..\glue 5.24995
+..\tentt i
+..\glue 5.24995
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt =
+..\pdfcolorstack 0 pop
+..\glue 5.24995
+..\pdfcolorstack 0 push {1 0 0 0 k 1 0 0 0 K}
+..\tentt 0
+..\pdfcolorstack 0 pop
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt ;
+..etc.
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 3.66669
+.\hbox(6.94444+1.38887)x469.75499, glue set 276.5065fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 3
+...\thefont 5
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\tentt S
+..\tentt t
+..\tentt r
+..\tentt e
+..\tentt e
+..\tentt t
+..\glue 5.24995
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt *
+..\pdfcolorstack 0 pop
+..\tentt s
+..\tentt t
+..\tentt r
+..\tentt e
+..\tentt e
+..\tentt t
+..\glue 5.24995
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt =
+..\pdfcolorstack 0 pop
+..\glue 5.24995
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt (
+..\pdfcolorstack 0 pop
+..etc.
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 6.10005
+.\hbox(4.51108+0.0)x469.75499, glue set 449.75499fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 3
+...\thefont 6
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 5.05556
+.\hbox(6.94444+2.22223)x469.75499, glue set 140.00769fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 3
+...\thefont 7
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\tentt i
+..\tentt n
+..\tentt t
+..\glue 5.24995
+..\tentt n
+..\tentt u
+..\tentt m
+..\tentt O
+..\tentt f
+..\tentt C
+..\tentt a
+..\tentt r
+..\tentt s
+..\tentt P
+..\tentt a
+..\tentt r
+..\tentt k
+..\tentt i
+..\tentt n
+..\tentt g
+..\glue 5.24995
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt =
+..\pdfcolorstack 0 pop
+..etc.
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 5.2667
+.\hbox(4.51108+0.0)x469.75499, glue set 449.75499fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 3
+...\thefont 8
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 5.05556
+.\hbox(6.94444+2.22223)x469.75499
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 3
+...\thefont 9
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\tentt c
+..\tentt a
+..\tentt r
+..\tentt s
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt [
+..\pdfcolorstack 0 pop
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt (
+..\pdfcolorstack 0 pop
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt *
+..\pdfcolorstack 0 pop
+..\tentt c
+..\tentt a
+..\tentt r
+..\tentt S
+..\tentt e
+..\tentt l
+..\tentt e
+..\tentt c
+..\tentt t
+..\tentt i
+..\tentt o
+..etc.
+.\penalty 20000
+.\glue(\baselineskip) 2.83333
+.\hbox(6.94444+1.38887)x469.75499, glue set 448.75517fil
+..\pdfcolorstack 0 push {1 0 0 0 k 1 0 0 0 K}
+..\tentt 2
+..\tentt 0
+..\pdfcolorstack 0 pop
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt )
+..\pdfcolorstack 0 pop
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt ;
+..\pdfcolorstack 0 pop
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\penalty 100
+.etc.
+
+ [6]
+[7]
+Overfull \hbox (75.24043pt too wide) in paragraph at lines 93--93
+[][][][]\tentt :[] Fl_Double_Window[]([]width[],[] height[])[][],[] park-ing-Ca
+rsLo-ca-tion[]([][])[][],[]street_x[]([][]45[][])[][],[] street_y[]([][]130[][]
+)[][],[] street_w[]([][]400[][])[][],[]|
+
+\hbox(6.94444+2.22223)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\pdfcolorstack 0 push {0 g 0 G}
+..\thefont 1
+..\thefont 4
+..\kern 7.17494
+.\pdfcolorstack 0 pop
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt :
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\tentt F
+.\tentt l
+.\tentt _
+.\tentt D
+.\tentt o
+.\tentt u
+.\tentt b
+.\tentt l
+.\tentt e
+.\tentt _
+.\tentt W
+.\tentt i
+.\tentt n
+.\tentt d
+.\tentt o
+.\tentt w
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt (
+.\pdfcolorstack 0 pop
+.\tentt w
+.\tentt i
+.\tentt d
+.\tentt t
+.etc.
+
+[8] [9] [10]
+Overfull \hbox (6.99103pt too wide) in paragraph at lines 103--103
+[][][]      \tentt if []([]y1 []=[][]=[] static_cast[]<[][]int[][]>[][]([]desti
+nationY[])[] []&[][]&[] x1 []=[][]=[] static_cast[]<[][]int[][]>[][]([]destinat
+ionX[])[][])[] |
+
+\hbox(6.94444+2.22223)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\pdfcolorstack 0 push {0 g 0 G}
+..\thefont 1
+..\thefont 5
+..\kern 7.17494
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\tentt i
+.\tentt f
+.\glue 5.24995
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt (
+.\pdfcolorstack 0 pop
+.\tentt y
+.\tentt 1
+.\glue 5.24995
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt =
+.\pdfcolorstack 0 pop
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt =
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\tentt s
+.\tentt t
+.\tentt a
+.\tentt t
+.\tentt i
+.etc.
+
+[11]
+Overfull \hbox (6.99103pt too wide) in paragraph at lines 106--106
+[][][]      \tentt if []([]y1 []=[][]=[] static_cast[]<[][]int[][]>[][]([]desti
+nationY[])[] []&[][]&[] x1 []=[][]=[] static_cast[]<[][]int[][]>[][]([]destinat
+ionX[])[][])[] |
+
+\hbox(6.94444+2.22223)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\pdfcolorstack 0 push {0 g 0 G}
+..\thefont 1
+..\thefont 5
+..\kern 7.17494
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\tentt i
+.\tentt f
+.\glue 5.24995
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt (
+.\pdfcolorstack 0 pop
+.\tentt y
+.\tentt 1
+.\glue 5.24995
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt =
+.\pdfcolorstack 0 pop
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt =
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\tentt s
+.\tentt t
+.\tentt a
+.\tentt t
+.\tentt i
+.etc.
+
+
+Overfull \hbox (6.99103pt too wide) in paragraph at lines 109--109
+[][][]      \tentt if []([]y1 []=[][]=[] static_cast[]<[][]int[][]>[][]([]desti
+nationY[])[] []&[][]&[] x1 []=[][]=[] static_cast[]<[][]int[][]>[][]([]destinat
+ionX[])[][])[] |
+
+\hbox(6.94444+2.22223)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\pdfcolorstack 0 push {0 g 0 G}
+..\thefont 1
+..\thefont 5
+..\kern 7.17494
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\tentt i
+.\tentt f
+.\glue 5.24995
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt (
+.\pdfcolorstack 0 pop
+.\tentt y
+.\tentt 1
+.\glue 5.24995
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt =
+.\pdfcolorstack 0 pop
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt =
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\tentt s
+.\tentt t
+.\tentt a
+.\tentt t
+.\tentt i
+.etc.
+
+[12]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.8333)x469.75499
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+0.8333)x469.75499, glue set 413.00531fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 1
+...\thefont 6
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt {
+..\pdfcolorstack 0 pop
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 4.22226
+.\hbox(6.94444+1.38887)x469.75499, glue set 318.50613fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 1
+...\thefont 7
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\tentt s
+..\tentt e
+..\tentt t
+..\tentt P
+..\tentt a
+..\tentt r
+..\tentt k
+..\tentt e
+..\tentt d
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt (
+..\pdfcolorstack 0 pop
+..\tentt t
+..\tentt r
+..\tentt u
+..\tentt e
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt )
+..etc.
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 5.07538
+.\hbox(5.53575+1.38887)x469.75499, glue set 365.75572fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 1
+...\thefont 8
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\tentt r
+..\tentt e
+..\tentt t
+..\tentt u
+..\tentt r
+..\tentt n
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt ;
+..\pdfcolorstack 0 pop
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 3.66669
+.\hbox(6.94444+0.8333)x469.75499, glue set 413.00531fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 1
+...\thefont 9
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt }
+..\pdfcolorstack 0 pop
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 4.22226
+.\hbox(6.94444+2.22223)x469.75499, glue set 318.50613fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 2
+...\thefont 0
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\pdfcolorstack 0 push {1 0 1 0 k 1 0 1 0 K}
+..\tentt /
+..\tentt /
+..\tentt c
+..\tentt h
+..\tentt a
+..\tentt n
+..\tentt g
+..\tentt e
+..\glue 5.24995
+..\tentt y
+..\glue 5.24995
+..\tentt p
+..\tentt o
+..\tentt s
+..\tentt i
+..\tentt t
+..\tentt i
+..\tentt o
+..\tentt n
+..\pdfcolorstack 0 pop
+..etc.
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.83333
+.\hbox(6.94444+2.22223)x469.75499, glue set 271.25655fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 2
+...\thefont 1
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\tentt i
+..\tentt f
+..\glue 5.24995
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt (
+..\pdfcolorstack 0 pop
+..\tentt d
+..\tentt e
+..\tentt s
+..\tentt t
+..\tentt i
+..\tentt n
+..\tentt a
+..\tentt t
+..\tentt i
+..\tentt o
+..\tentt n
+..\tentt Y
+..\glue 5.24995
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt >
+..etc.
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.83333
+.\hbox(6.94444+0.8333)x469.75499, glue set 413.00531fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 2
+...\thefont 2
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt {
+..\pdfcolorstack 0 pop
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 5.05559
+.\hbox(6.11111+2.22223)x469.75499, glue set 308.00623fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 2
+...\thefont 3
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\glue 5.24995
+..\tentt y
+..\tentt 1
+..\glue 5.24995
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt =
+..\pdfcolorstack 0 pop
+..\glue 5.24995
+..\tentt d
+..\tentt e
+..\tentt s
+..\tentt t
+..\tentt i
+..\tentt n
+..\tentt a
+..\tentt t
+..\tentt i
+..\tentt o
+..\tentt n
+..etc.
+.etc.
+
+ [13]
+Overfull \hbox (6.99103pt too wide) in paragraph at lines 112--112
+[][][]      \tentt if []([]y1 []=[][]=[] static_cast[]<[][]int[][]>[][]([]desti
+nationY[])[] []&[][]&[] x1 []=[][]=[] static_cast[]<[][]int[][]>[][]([]destinat
+ionX[])[][])[] |
+
+\hbox(6.94444+2.22223)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\pdfcolorstack 0 push {0 g 0 G}
+..\thefont 1
+..\thefont 6
+..\kern 7.17494
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\tentt i
+.\tentt f
+.\glue 5.24995
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt (
+.\pdfcolorstack 0 pop
+.\tentt y
+.\tentt 1
+.\glue 5.24995
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt =
+.\pdfcolorstack 0 pop
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt =
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\tentt s
+.\tentt t
+.\tentt a
+.\tentt t
+.\tentt i
+.etc.
+
+[14] [15]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+2.22223)x469.75499
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+2.22223)x469.75499, glue set 402.5054fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 3
+...\thefont 5
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\tentt \
+..\tentt p
+..\tentt i
+..\tentt c
+..\tentt w
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt =
+..\pdfcolorstack 0 pop
+..\pdfcolorstack 0 push {1 0 0 0 k 1 0 0 0 K}
+..\tentt 2
+..\tentt i
+..\tentt n
+..\pdfcolorstack 0 pop
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 5.2667
+.\hbox(4.51108+0.0)x469.75499, glue set 449.75499fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 3
+...\thefont 6
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 5.05556
+.\hbox(6.94444+2.22223)x469.75499, glue set 365.75572fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 3
+...\thefont 7
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\tentt \
+..\tentt i
+..\tentt n
+..\tentt s
+..\tentt p
+..\tentt i
+..\tentt c
+..\glue 5.24995
+..\tentt c
+..\tentt a
+..\tentt r
+..\tentt 1
+..\tentt .
+..\tentt p
+..\tentt n
+..\tentt g
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.83333
+.\hbox(6.94444+0.8333)x469.75499, glue set 402.5054fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 3
+...\thefont 8
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\tentt \
+..\tentt f
+..\tentt i
+..\tentt l
+..\tentt b
+..\tentt r
+..\tentt e
+..\tentt a
+..\tentt k
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 4.22226
+.\hbox(6.94444+2.22223)x469.75499, glue set 402.5054fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 3
+...\thefont 9
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\tentt \
+..\tentt p
+..\tentt i
+..\tentt c
+..\tentt w
+..\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+..\tentt =
+..\pdfcolorstack 0 pop
+..\pdfcolorstack 0 push {1 0 0 0 k 1 0 0 0 K}
+..\tentt 2
+..\tentt i
+..\tentt n
+..\pdfcolorstack 0 pop
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 5.2667
+.\hbox(4.51108+0.0)x469.75499, glue set 449.75499fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 4
+...\thefont 0
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 5.05556
+.\hbox(6.94444+2.22223)x469.75499, glue set 365.75572fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 4
+...\thefont 1
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\tentt \
+..\tentt i
+..\tentt n
+..\tentt s
+..\tentt p
+..\tentt i
+..\tentt c
+..\glue 5.24995
+..\tentt c
+..\tentt a
+..\tentt r
+..\tentt 2
+..\tentt .
+..\tentt p
+..\tentt n
+..\tentt g
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\penalty 100
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.83333
+.\hbox(6.94444+0.8333)x469.75499, glue set 402.5054fil
+..\hbox(0.0+0.0)x20.0
+..\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 push {0 g 0 G}
+...\thefont 4
+...\thefont 2
+...\kern 7.17494
+..\pdfcolorstack 0 pop
+..\tentt \
+..\tentt f
+..\tentt i
+..\tentt l
+..\tentt b
+..\tentt r
+..\tentt e
+..\tentt a
+..\tentt k
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.etc.
+
+ [16]
+[17] )</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sh
+are/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmtt10.pfb>
+Output written on lab11.pdf (17 pages, 390656 bytes).
+PDF statistics:
+ 104 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+
